@@ -1,4 +1,4 @@
-# BlackTutorials
+# BlackTutorials (Tutorial for Developer)
 This is the source code for the "Live Dev" YouTube channel
 
 # Links for Downloads
